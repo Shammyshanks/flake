@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/thor/flake/configuration.nix" added="2022-08-16T15:10:56.167831Z" modified="2022-08-22T22:29:19.810373Z" visited="2022-08-16T15:10:56.167831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:29:19.810368Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/flake/flake.lock" added="2022-08-16T15:10:56.167845Z" modified="2022-08-22T22:29:19.810388Z" visited="2022-08-16T15:10:56.167846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:29:19.810387Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/flake/flake.nix" added="2022-08-16T15:10:56.167852Z" modified="2022-08-22T22:29:19.810397Z" visited="2022-08-16T15:10:56.167852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:29:19.810396Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/flake/hardware-configuration.nix" added="2022-08-16T15:10:56.167859Z" modified="2022-08-22T22:29:19.810404Z" visited="2022-08-16T15:10:56.167859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:29:19.810403Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/flake/home.nix" added="2022-08-16T15:10:56.167866Z" modified="2022-08-22T22:29:19.810409Z" visited="2022-08-16T15:10:56.167866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:29:19.810408Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/.emacs.d/config.org" added="2022-08-22T22:30:19.882160Z" modified="2022-08-22T22:30:19.882164Z" visited="2022-08-22T22:30:19.882161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/org"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:30:19.882162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thor/.emacs.d/init.el" added="2022-08-22T22:30:19.882171Z" modified="2022-08-22T22:30:19.882172Z" visited="2022-08-22T22:30:19.882171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-emacs-lisp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-22T22:30:19.882172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

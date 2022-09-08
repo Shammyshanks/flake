@@ -1,0 +1,9 @@
+[restore-stream]
+Audio/Sink:node.name:auto_null:channelMap=
+Audio/Sink:node.name:auto_null:channelVolumes=
+Audio/Sink:node.name:auto_null:mute=false
+Audio/Sink:node.name:auto_null:volume=1.0
+Output/Audio:application.name:mpv:channelMap=FL;FR;
+Output/Audio:application.name:mpv:channelVolumes=1.0;1.0;
+Output/Audio:application.name:mpv:mute=false
+Output/Audio:application.name:mpv:volume=1.0
