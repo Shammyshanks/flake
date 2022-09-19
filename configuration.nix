@@ -98,7 +98,6 @@ nur = import (builtins.fetchTarball "https://github.com/nix-community/NUR/archiv
 };
 
 fonts.fonts = with pkgs; [
-  fira-code
   emacs-all-the-icons-fonts
   font-awesome
   hack-font
